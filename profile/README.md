@@ -1,4 +1,4 @@
-<img src="https://github.com/realcyberdyne/.github/assets/45543047/1eaf0f56-3960-4a3c-af47-233bf607ed0f" style="width:100%;"/>
+<img src="https://github.com/realcyberdyne/.github/assets/45543047/6943a29a-75a1-486f-8bc3-4d19712dad5f" style="width:100%;"/>
 
 # Cyberdyne
 Cyberdyne Systems is a cutting-edge AI and network software company that specializes in developing advanced artificial intelligence solutions and robust network infrastructures. With a focus on innovation and security, Cyberdyne Systems offers a range of products and services designed to empower businesses and enhance connectivity.
